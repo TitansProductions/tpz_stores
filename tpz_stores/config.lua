@@ -1,6 +1,6 @@
 Config = {}
 
-Config.DevMode = true
+Config.DevMode = false
 
 Config.OpenKey = 0x760A9C6F
 Config.QTarget = false
