@@ -108,7 +108,7 @@ function SpawnNPC(Store)
             exports.qtarget:AddLocalTargetEntity(npc, {
                 options = {
                     {
-                        event = 'tp_stores',
+                        event = 'tpz_stores',
                         store = Store,
                         param1 = false,
                         icon = "fas fa-box-circle-check",
